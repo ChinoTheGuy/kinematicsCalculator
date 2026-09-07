@@ -10,7 +10,6 @@ double RegKinematics::getValidInput(std::string prompt) const
 {
     double input;
     bool needsInput = true;
-    std::cout << "Test 2" << std::endl;
 
     while (needsInput)
     {
